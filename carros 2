@@ -11,12 +11,12 @@
 </head>
 
 <body>
-    <header>GUIMINAMFLIX</header>
+    <header>netfilmes</header>
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>ATRAVÉS DO ARANHAVERSO</h1>
-            <p>#homem-aranha</p>
+            <h1>carros 2</h1>
+            <p>#carros</p>
         </div>
 
         <div>
